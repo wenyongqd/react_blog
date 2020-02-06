@@ -6,7 +6,7 @@ const Header = () => (
     <div className="header">
         <Row type="flex" justify="center">
             <Col xs={24} sm={24} md={10} lg={15} xl={12}>
-                <span className="header-logo">Yong's blog</span>
+                <span className="header-logo">Yong's Blog</span>
                 <span className="header-txt">focusing on coding...</span>
             </Col>
             <Col className="memu-div" xs={0} sm={0} md={14} lg={8} xl={6}>
